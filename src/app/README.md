@@ -10,6 +10,7 @@ src/
   |  |- app.js
   |  |- app.spec.js
 ```
+//new comment
 
 The `src/app` directory contains all code specific to this application. Apart
 from `app.js` and its accompanying tests (discussed below), this directory is
